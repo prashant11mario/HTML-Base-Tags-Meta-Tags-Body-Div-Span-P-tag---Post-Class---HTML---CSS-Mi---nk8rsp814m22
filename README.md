@@ -1,30 +1,10 @@
 
-# Portfolio Site
+# Login & Signup Form
 
-It's my first project for newton school and in this project i am 
-providing my skills, experience and why i have started my journey in coding sector.
+Basic Login Signup form
 
-Deatils:-
-
-1)Navbar :- I have provided navigation bar for easily go on other sections.
-
-2)About me :- In this section i am defining my self and my knowledge.
-
-3)Portfolio :- Portfolio section carry information about my previous work for client.
-
-4)Services :- This section provide information about my Services for clients.
-
-5)Contact :-  Through Contact section anyone can easily Contact me for Services.
-
-CSS and design Details:-
-
-Button :- I am provided shadow effects in buttons whenever cursor hover it.
-
-Section :- In some section i've done hover effects for make it more attractive.
-
-
-
-
+Html :- Input feilds for input the details of user for signup and login
+Css : - For make more attarctive i have use CSS in input,labels and buttons.
 
 
 
