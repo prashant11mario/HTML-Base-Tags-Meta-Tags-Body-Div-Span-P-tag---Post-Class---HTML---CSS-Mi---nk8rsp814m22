@@ -12,7 +12,7 @@ Css : - For make more attarctive i have use CSS in input,labels and buttons.
 
 You can follow link below to run project.
 
-https://marioportfolio.netlify.app/
+https://chipper-centaur-a888f0.netlify.app/
 
 
 
